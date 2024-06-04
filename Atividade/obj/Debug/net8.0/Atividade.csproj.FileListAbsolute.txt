@@ -1,0 +1,14 @@
+C:\Users\augus\Documents\CODIFICACAO BACK-END\Atividade\bin\Debug\net8.0\Atividade.exe
+C:\Users\augus\Documents\CODIFICACAO BACK-END\Atividade\bin\Debug\net8.0\Atividade.deps.json
+C:\Users\augus\Documents\CODIFICACAO BACK-END\Atividade\bin\Debug\net8.0\Atividade.runtimeconfig.json
+C:\Users\augus\Documents\CODIFICACAO BACK-END\Atividade\bin\Debug\net8.0\Atividade.dll
+C:\Users\augus\Documents\CODIFICACAO BACK-END\Atividade\bin\Debug\net8.0\Atividade.pdb
+C:\Users\augus\Documents\CODIFICACAO BACK-END\Atividade\obj\Debug\net8.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\augus\Documents\CODIFICACAO BACK-END\Atividade\obj\Debug\net8.0\Atividade.AssemblyInfoInputs.cache
+C:\Users\augus\Documents\CODIFICACAO BACK-END\Atividade\obj\Debug\net8.0\Atividade.AssemblyInfo.cs
+C:\Users\augus\Documents\CODIFICACAO BACK-END\Atividade\obj\Debug\net8.0\Atividade.csproj.CoreCompileInputs.cache
+C:\Users\augus\Documents\CODIFICACAO BACK-END\Atividade\obj\Debug\net8.0\Atividade.dll
+C:\Users\augus\Documents\CODIFICACAO BACK-END\Atividade\obj\Debug\net8.0\refint\Atividade.dll
+C:\Users\augus\Documents\CODIFICACAO BACK-END\Atividade\obj\Debug\net8.0\Atividade.pdb
+C:\Users\augus\Documents\CODIFICACAO BACK-END\Atividade\obj\Debug\net8.0\Atividade.genruntimeconfig.cache
+C:\Users\augus\Documents\CODIFICACAO BACK-END\Atividade\obj\Debug\net8.0\ref\Atividade.dll
